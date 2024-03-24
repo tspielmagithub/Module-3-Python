@@ -1,2 +1,3 @@
 # python-challenge
 creating a first homework for the Python script to analyze the financial records
+Created a new repository for this project called python-challenge. Cloned the new repository to my computer. Inside your local Git repository, created a folder for each Python assignment and named them PyBank and PyPoll. In each folder that just created, added the following content: A new file called main.py. This will is the main script to run for each analysis. A Resources folder that contains the CSV files used. An analysis folder that contains text files that has the results from analysis. Pushed these changes to GitHub.
